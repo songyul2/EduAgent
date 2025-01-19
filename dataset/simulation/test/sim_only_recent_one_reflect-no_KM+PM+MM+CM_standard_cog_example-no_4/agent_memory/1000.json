@@ -1,0 +1,362 @@
+[
+    {
+        "transcript_id": 0.0,
+        "observation": "\n # Transcript ID: 0.0 #: content: # AI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. #.\n # Transcript ID: 1.0 #: content: # For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. #.\n # Transcript ID: 2.0 #: content: # Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face. #.",
+        "action": {
+            "gaze_aoi_id": {
+                "0.0": 2.0,
+                "1.0": 3.0,
+                "2.0": 5.0
+            },
+            "motor_aoi_id": {
+                "0.0": 2.0,
+                "1.0": 3.0,
+                "2.0": 5.0
+            },
+            "workload": {
+                "0.0": 0.8,
+                "1.0": 0.75,
+                "2.0": 0.7
+            },
+            "curiosity": {
+                "0.0": 0.2,
+                "1.0": 0.25,
+                "2.0": 0.3
+            },
+            "valid_focus": {
+                "0.0": 0.3,
+                "1.0": 0.4,
+                "2.0": 0.45
+            },
+            "course_follow": {
+                "0.0": 0.35,
+                "1.0": 0.4,
+                "2.0": 0.45
+            },
+            "engagement": {
+                "0.0": 0.25,
+                "1.0": 0.3,
+                "2.0": 0.35
+            },
+            "confusion": {
+                "0.0": 0.75,
+                "1.0": 0.7,
+                "2.0": 0.65
+            }
+        }
+    },
+    {
+        "transcript_id": 1.0,
+        "observation": "\n # Transcript ID: 3.0 #: content: # The beginning of AI research dates back to the 1950s. #.\n # Transcript ID: 4.0 #: content: # Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a \u201cthinking\u201d machine that could hold a conversation with a human as if it were just another person. #.\n # Transcript ID: 5.0 #: content: # Turing's papers and their discussion sparked the concept of artificial intelligence. #.\n # Transcript ID: 6.0 #: content: # While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. #.\n # Transcript ID: 7.0 #: content: # The late 1970s became known as the first AI winter. #.\n # Transcript ID: 8.0 #: content: # The first AI winter ended in the early 1980s after several new developments. #.\n # Transcript ID: 9.0 #: content: # One of these developments was the US increasing funding for AI again. #.\n # Transcript ID: 10.0 #: content: # Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. #.\n # Transcript ID: 11.0 #: content: # Another development was the introduction of \u201cExpert Systems\u201d which was quickly utilized by large global corporations. #.\n # Transcript ID: 12.0 #: content: # The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. #.\n # Transcript ID: 13.0 #: content: # The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. #.\n # Transcript ID: 14.0 #: content: # Even with such restrictions, these programs proved useful to corporations. #.\n # Transcript ID: 15.0 #: content: # However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. #.\n # Transcript ID: 16.0 #: content: # Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. #.\n # Transcript ID: 17.0 #: content: # As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. #.\n # Transcript ID: 18.0 #: content: # Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. #.\n # Transcript ID: 19.0 #: content: # It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. #.\n # Transcript ID: 20.0 #: content: # With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. #.\n # Transcript ID: 21.0 #: content: # Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. #.\n # Transcript ID: 22.0 #: content: # The 2010s saw the rise of digital virtual assistants. #.\n # Transcript ID: 23.0 #: content: # Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. #.\n # Transcript ID: 24.0 #: content: # Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. #.\n # Transcript ID: 25.0 #: content: # Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more. #.",
+        "action": {
+            "gaze_aoi_id": {
+                "3.0": 3.0,
+                "4.0": 3.0,
+                "5.0": 3.0,
+                "6.0": 5.0,
+                "7.0": 5.0,
+                "8.0": 7.0,
+                "9.0": 7.0,
+                "10.0": 7.0,
+                "11.0": 7.0,
+                "12.0": 7.0,
+                "13.0": null,
+                "14.0": null,
+                "15.0": 5.0,
+                "16.0": 5.0,
+                "17.0": 5.0,
+                "18.0": 5.0,
+                "19.0": 8.0,
+                "20.0": 8.0,
+                "21.0": 8.0,
+                "22.0": 11.0,
+                "23.0": 11.0,
+                "24.0": 11.0,
+                "25.0": 11.0
+            },
+            "motor_aoi_id": {
+                "3.0": 3.0,
+                "4.0": 3.0,
+                "5.0": 3.0,
+                "6.0": 5.0,
+                "7.0": 5.0,
+                "8.0": 7.0,
+                "9.0": 7.0,
+                "10.0": 7.0,
+                "11.0": 7.0,
+                "12.0": 7.0,
+                "13.0": null,
+                "14.0": null,
+                "15.0": 5.0,
+                "16.0": 5.0,
+                "17.0": 5.0,
+                "18.0": 5.0,
+                "19.0": 8.0,
+                "20.0": 8.0,
+                "21.0": 8.0,
+                "22.0": 11.0,
+                "23.0": 11.0,
+                "24.0": 11.0,
+                "25.0": 11.0
+            },
+            "workload": {
+                "3.0": 0.75,
+                "4.0": 0.75,
+                "5.0": 0.75,
+                "6.0": 0.8,
+                "7.0": 0.8,
+                "8.0": 0.75,
+                "9.0": 0.75,
+                "10.0": 0.75,
+                "11.0": 0.7,
+                "12.0": 0.7,
+                "13.0": 0.7,
+                "14.0": 0.7,
+                "15.0": 0.8,
+                "16.0": 0.8,
+                "17.0": 0.8,
+                "18.0": 0.8,
+                "19.0": 0.75,
+                "20.0": 0.75,
+                "21.0": 0.75,
+                "22.0": 0.7,
+                "23.0": 0.7,
+                "24.0": 0.7,
+                "25.0": 0.7
+            },
+            "curiosity": {
+                "3.0": 0.25,
+                "4.0": 0.25,
+                "5.0": 0.25,
+                "6.0": 0.2,
+                "7.0": 0.2,
+                "8.0": 0.25,
+                "9.0": 0.25,
+                "10.0": 0.25,
+                "11.0": 0.3,
+                "12.0": 0.3,
+                "13.0": 0.3,
+                "14.0": 0.3,
+                "15.0": 0.2,
+                "16.0": 0.2,
+                "17.0": 0.2,
+                "18.0": 0.2,
+                "19.0": 0.25,
+                "20.0": 0.25,
+                "21.0": 0.25,
+                "22.0": 0.3,
+                "23.0": 0.3,
+                "24.0": 0.3,
+                "25.0": 0.3
+            },
+            "valid_focus": {
+                "3.0": 0.4,
+                "4.0": 0.4,
+                "5.0": 0.4,
+                "6.0": 0.35,
+                "7.0": 0.35,
+                "8.0": 0.4,
+                "9.0": 0.4,
+                "10.0": 0.4,
+                "11.0": 0.45,
+                "12.0": 0.45,
+                "13.0": 0.45,
+                "14.0": 0.45,
+                "15.0": 0.35,
+                "16.0": 0.35,
+                "17.0": 0.35,
+                "18.0": 0.35,
+                "19.0": 0.4,
+                "20.0": 0.4,
+                "21.0": 0.4,
+                "22.0": 0.45,
+                "23.0": 0.45,
+                "24.0": 0.45,
+                "25.0": 0.45
+            },
+            "course_follow": {
+                "3.0": 0.4,
+                "4.0": 0.4,
+                "5.0": 0.4,
+                "6.0": 0.35,
+                "7.0": 0.35,
+                "8.0": 0.4,
+                "9.0": 0.4,
+                "10.0": 0.4,
+                "11.0": 0.45,
+                "12.0": 0.45,
+                "13.0": 0.45,
+                "14.0": 0.45,
+                "15.0": 0.35,
+                "16.0": 0.35,
+                "17.0": 0.35,
+                "18.0": 0.35,
+                "19.0": 0.4,
+                "20.0": 0.4,
+                "21.0": 0.4,
+                "22.0": 0.45,
+                "23.0": 0.45,
+                "24.0": 0.45,
+                "25.0": 0.45
+            },
+            "engagement": {
+                "3.0": 0.3,
+                "4.0": 0.3,
+                "5.0": 0.3,
+                "6.0": 0.25,
+                "7.0": 0.25,
+                "8.0": 0.3,
+                "9.0": 0.3,
+                "10.0": 0.3,
+                "11.0": 0.35,
+                "12.0": 0.35,
+                "13.0": 0.35,
+                "14.0": 0.35,
+                "15.0": 0.25,
+                "16.0": 0.25,
+                "17.0": 0.25,
+                "18.0": 0.25,
+                "19.0": 0.3,
+                "20.0": 0.3,
+                "21.0": 0.3,
+                "22.0": 0.35,
+                "23.0": 0.35,
+                "24.0": 0.35,
+                "25.0": 0.35
+            },
+            "confusion": {
+                "3.0": 0.7,
+                "4.0": 0.7,
+                "5.0": 0.7,
+                "6.0": 0.75,
+                "7.0": 0.75,
+                "8.0": 0.7,
+                "9.0": 0.7,
+                "10.0": 0.7,
+                "11.0": 0.65,
+                "12.0": 0.65,
+                "13.0": 0.65,
+                "14.0": 0.65,
+                "15.0": 0.75,
+                "16.0": 0.75,
+                "17.0": 0.75,
+                "18.0": 0.75,
+                "19.0": 0.7,
+                "20.0": 0.7,
+                "21.0": 0.7,
+                "22.0": 0.65,
+                "23.0": 0.65,
+                "24.0": 0.65,
+                "25.0": 0.65
+            }
+        }
+    },
+    {
+        "transcript_id": 2.0,
+        "observation": "\n # Transcript ID: 26.0 #: content: # Artificial Intelligence Definitions: But still, what is AI? #.\n # Transcript ID: 27.0 #: content: # AI usually does not have one explicit definition. #.\n # Transcript ID: 28.0 #: content: # However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. #.\n # Transcript ID: 29.0 #: content: # The sector of AI where AI currently is adopted in products is called machine learning, or ML. #.\n # Transcript ID: 30.0 #: content: # Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. #.\n # Transcript ID: 31.0 #: content: # As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence. #.",
+        "action": {
+            "gaze_aoi_id": {
+                "26.0": 1.0,
+                "27.0": 2.0,
+                "28.0": 2.0,
+                "29.0": 3.0,
+                "30.0": 3.0,
+                "31.0": 4.0
+            },
+            "motor_aoi_id": {
+                "26.0": 1.0,
+                "27.0": 2.0,
+                "28.0": 2.0,
+                "29.0": 3.0,
+                "30.0": 3.0,
+                "31.0": 4.0
+            },
+            "workload": {
+                "26.0": 0.75,
+                "27.0": 0.7,
+                "28.0": 0.7,
+                "29.0": 0.7,
+                "30.0": 0.7,
+                "31.0": 0.8
+            },
+            "curiosity": {
+                "26.0": 0.25,
+                "27.0": 0.3,
+                "28.0": 0.3,
+                "29.0": 0.3,
+                "30.0": 0.3,
+                "31.0": 0.2
+            },
+            "valid_focus": {
+                "26.0": 0.4,
+                "27.0": 0.45,
+                "28.0": 0.45,
+                "29.0": 0.45,
+                "30.0": 0.45,
+                "31.0": 0.35
+            },
+            "course_follow": {
+                "26.0": 0.4,
+                "27.0": 0.45,
+                "28.0": 0.45,
+                "29.0": 0.45,
+                "30.0": 0.45,
+                "31.0": 0.35
+            },
+            "engagement": {
+                "26.0": 0.3,
+                "27.0": 0.35,
+                "28.0": 0.35,
+                "29.0": 0.35,
+                "30.0": 0.35,
+                "31.0": 0.25
+            },
+            "confusion": {
+                "26.0": 0.7,
+                "27.0": 0.65,
+                "28.0": 0.65,
+                "29.0": 0.65,
+                "30.0": 0.65,
+                "31.0": 0.75
+            }
+        }
+    },
+    {
+        "transcript_id": 3.0,
+        "observation": "\n # Transcript ID: 32.0 #: content: # As our focus will be on machine learning, now let us have a look at this field in AI from a high level. #.\n # Transcript ID: 33.0 #: content: # Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category. #.",
+        "action": {
+            "gaze_aoi_id": {
+                "32.0": 2.0,
+                "33.0": 3.0
+            },
+            "motor_aoi_id": {
+                "32.0": 2.0,
+                "33.0": 3.0
+            },
+            "workload": {
+                "32.0": 0.8,
+                "33.0": 0.8
+            },
+            "curiosity": {
+                "32.0": 0.2,
+                "33.0": 0.2
+            },
+            "valid_focus": {
+                "32.0": 0.35,
+                "33.0": 0.35
+            },
+            "course_follow": {
+                "32.0": 0.35,
+                "33.0": 0.35
+            },
+            "engagement": {
+                "32.0": 0.25,
+                "33.0": 0.25
+            },
+            "confusion": {
+                "32.0": 0.75,
+                "33.0": 0.75
+            }
+        }
+    }
+]

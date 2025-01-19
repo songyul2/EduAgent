@@ -1,0 +1,828 @@
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+Repetition: 0----------
+sys_prompt: Assume you are the Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+.
+ The information above is your # persona #. 
+content_prompt: 
+ Assume you are on the online course. Your task is to simulate the student # cognitive states # (task 1), # gaze watch AOI # (task 2), # mouse move AOI # (task 3), and # question choice # (task 4) The details are depicted below. 
+
+ The slide in the course is segmented into several area of interests (AOIs) and you could either watch each AOI or use the computer mouse to explore them.
+ Each slide contains a list of transcripts from the teacher.
+ Your task 1 is to simulate the trajectory of this student's six cognitive states in the transcript list in the current slide on the course, including:
+ WORKLOAD, CURIOSITY, VALID FOCUS, COURSE FOLLOW, ENGAGEMENT, CONFUSION.
+ Each state is from 0 (very low level) to 1 (very high level) and should be accurate to at least two decimal places.
+ Your task 2 is to simulate the trajectory of this student's gaze watching behaviors and indicate which specific AOI you are currently watching during each transcript.
+ Your task 3 is to simulate the trajectory of this student's mouse moving behavior and indicate which specific AOI you come across with your mouse during each transcript.
+ Your task 4 is to simulate this student's learning performance to answer each of the post-course questions.
+
+ Your # simulation strategy #: Finish the four tasks according to the instructions.
+
+
+ Here are the # simulation strategy # for you to learn from history data. 
+ For cognitive states simulation (task 1), you have steps below. First, consider your past cognitive states trajectories in the history because your current cognitive states may be correlated with past cognitive states.
+ Second, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors and see whether your current cognitive states are in good status or not.
+ For example, strong course following is correlated with good cognitive states (such as high valid focus/course following or low workload) and weak course following may indicate bad cognitive states. 
+ For gaze/motor simulation (task 2 and task 3), you have steps below. First, consider your past gaze/motor trajectories in the history since current gaze/motor behaviors may be correlated with past gaze/motor behaviors.
+ Second, consider your past cognitive states trajectories to decide whether your current gaze/motor simulation should follow the current course content pace or not.
+ For example, good cognitive states (such as high valid focus/course following or low workload) is correlated with strong course following. So your gaze/motor simulation should be consistent with current course contents. 
+ However, bad cognitive states (such as high workload) may make you keep your gaze/motor AOI as previous gaze/motor trajectories or other potential random AOIs. 
+ Finally, note that gaze behaviors do not have to be the same as motor behaviors. Although they are correlated, gaze and motor represent different behaviors (watching AOI and mouse moving AOI) respectively. 
+ For question choice simulation (task 4), you have steps below. First, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors, which are correlated with your question answering performance.
+ For example, good course following may indicate correct question answers but bad course following may indicate wrong question answers. 
+ Second, consider your past cognitive states trajectories in the history, which may also affect your question answering performance.
+ For example, good cognitive states may indicate correct question answers but bad cognitive states may indicate wrong question answers. 
+ Third, find related course contents with the question contents and choice contents to get the correct choice. 
+ Finally, according to all information above, estimate whether you could answer each question correct or not. If yes, you give the correct choice. If no, you give the potential wrong choice. 
+ Note that your simulation for all transcripts MUST Not be always the same. It should vary according to course materials and the interaction among different behaviors as depicted above. 
+
+ There is no memory stream or history records for you.
+
+ Now you are on an online course and here is what the teacher is saying: # current course slide ID: 0.0, slide contents: 
+ # Transcript ID: 0.0 #: content: # AI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. #.
+ # Transcript ID: 1.0 #: content: # For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. #.
+ # Transcript ID: 2.0 #: content: # Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face. #. #. 
+
+ There are 5 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. . 
+#AOI 2#: A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#.. 
+#AOI 3#: A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. . 
+#AOI 4#: A picture containing one smiling man who wears a pair of red glasses in the video. . 
+#AOI 5#: A picture containing one smiling man whose face is colored differently on different parts of the face mesh. . 
+
+ Now you have learned knowledge from the # current course slide ID: 0.0#. Now you will take several post-test questions below to evaluate your learning performance:
+ Question 1: #  Which of the following could become the applications of AI: (1). Social media face filters (2). Facial recognition (3). Content recommendation (4). Language translation (5). Emotion recognition (6). English translation  #. You must select one answer from the question choices: #  A: (1)(2)(3)(4), B: (1)(2)(3)(4)(5), C: (1)(2)(3)(4)(6), D: (1)(2)(3)(4)(5)(6)  # 
+
+ Question 2: #  AI is used in social media face filters by identifying [  ] on the person’s face.  #. You must select one answer from the question choices: #  A: eyes, B: key points, C: key lines, D: key shapes  # 
+
+ Please use the # simulation strategy # to finish the four tasks.
+ Note that: 1. your response for task 1, task 2,task 3 must be answered together in exactly the format below: 
+ Transcript ID: [value], WORKLOAD: [value], CURIOSITY: [value], VALID FOCUS: [value], COURSE FOLLOW: [value], ENGAGEMENT: [value], CONFUSION: [value], WATCH AOI: [aoi id], MOUSE MOVE AOI: [aoi id].
+ You MUST give response value for each task for each transcript from transcript 0.0 to transcript 2.0 in the slide.
+ You MUST give response value instead of blank for mouse moving simulation even if there is no related history data in mouse moving. 
+ 2. your response for task 4 must be exactly the format below: 
+ Question ID: [id value], Question Choice: [choice]. 
+ Make sure you have the ID symbol after Question symbol and The [choice] must be only one of A,B,C,D without other words.
+ You MUST give response for each question.
+ 
+ Your simulation of gaze, motor, cognitive states and question answering MUST be adapted to the student specific # persona # and Try to # diversify # your simulation according to # student personas #..
+ For example, for question choice task, your goal is NOT to answer it correctly. Instead, you should mimic the specific student persona, gaze/motor and cognitive states to make the choice. For example, good students may make the correct choice while bad students may make the wrong choice. Similar rules apply to other tasks. 
+ Your gaze DO NOT have to be the same as motor behaviors as well.
+ You just need to give me responses of four tasks in the format above. Do not give any other output nor reasons.
+
+
+ llm response: Transcript ID: 0.0, WORKLOAD: 0.80, CURIOSITY: 0.20, VALID FOCUS: 0.30, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 2, MOUSE MOVE AOI: 2.
+Transcript ID: 1.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.40, COURSE FOLLOW: 0.40, ENGAGEMENT: 0.30, CONFUSION: 0.70, WATCH AOI: 3, MOUSE MOVE AOI: 3. 
+Transcript ID: 2.0, WORKLOAD: 0.70, CURIOSITY: 0.30, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 5, MOUSE MOVE AOI: 5.
+
+Question ID: 1, Question Choice: A.
+Question ID: 2, Question Choice: B.
+
+
+
+
+ Adding new agent memory 
+
+
+
+ Start Simulation for Slide 1.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+Repetition: 0----------
+sys_prompt: Assume you are the Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+.
+ The information above is your # persona #. 
+content_prompt: 
+ Assume you are on the online course. Your task is to simulate the student # cognitive states # (task 1), # gaze watch AOI # (task 2), # mouse move AOI # (task 3), and # question choice # (task 4) The details are depicted below. 
+
+ The slide in the course is segmented into several area of interests (AOIs) and you could either watch each AOI or use the computer mouse to explore them.
+ Each slide contains a list of transcripts from the teacher.
+ Your task 1 is to simulate the trajectory of this student's six cognitive states in the transcript list in the current slide on the course, including:
+ WORKLOAD, CURIOSITY, VALID FOCUS, COURSE FOLLOW, ENGAGEMENT, CONFUSION.
+ Each state is from 0 (very low level) to 1 (very high level) and should be accurate to at least two decimal places.
+ Your task 2 is to simulate the trajectory of this student's gaze watching behaviors and indicate which specific AOI you are currently watching during each transcript.
+ Your task 3 is to simulate the trajectory of this student's mouse moving behavior and indicate which specific AOI you come across with your mouse during each transcript.
+ Your task 4 is to simulate this student's learning performance to answer each of the post-course questions.
+
+ Your # simulation strategy #: Finish the four tasks according to the instructions.
+
+
+ Here are the # simulation strategy # for you to learn from history data. 
+ For cognitive states simulation (task 1), you have steps below. First, consider your past cognitive states trajectories in the history because your current cognitive states may be correlated with past cognitive states.
+ Second, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors and see whether your current cognitive states are in good status or not.
+ For example, strong course following is correlated with good cognitive states (such as high valid focus/course following or low workload) and weak course following may indicate bad cognitive states. 
+ For gaze/motor simulation (task 2 and task 3), you have steps below. First, consider your past gaze/motor trajectories in the history since current gaze/motor behaviors may be correlated with past gaze/motor behaviors.
+ Second, consider your past cognitive states trajectories to decide whether your current gaze/motor simulation should follow the current course content pace or not.
+ For example, good cognitive states (such as high valid focus/course following or low workload) is correlated with strong course following. So your gaze/motor simulation should be consistent with current course contents. 
+ However, bad cognitive states (such as high workload) may make you keep your gaze/motor AOI as previous gaze/motor trajectories or other potential random AOIs. 
+ Finally, note that gaze behaviors do not have to be the same as motor behaviors. Although they are correlated, gaze and motor represent different behaviors (watching AOI and mouse moving AOI) respectively. 
+ For question choice simulation (task 4), you have steps below. First, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors, which are correlated with your question answering performance.
+ For example, good course following may indicate correct question answers but bad course following may indicate wrong question answers. 
+ Second, consider your past cognitive states trajectories in the history, which may also affect your question answering performance.
+ For example, good cognitive states may indicate correct question answers but bad cognitive states may indicate wrong question answers. 
+ Third, find related course contents with the question contents and choice contents to get the correct choice. 
+ Finally, according to all information above, estimate whether you could answer each question correct or not. If yes, you give the correct choice. If no, you give the potential wrong choice. 
+ Note that your simulation for all transcripts MUST Not be always the same. It should vary according to course materials and the interaction among different behaviors as depicted above. 
+
+ You have experienced such histories in the course depicted below. 
+
+ # Here are old histories from slide 0.0 to slide 0.0 and your corresponding experience. #
+The contents of the past slides are listed below: 
+# #Slide: 0.0#:  
+
+ # Transcript ID: 0.0 #: content: # AI is already applied in everyday life, used in social media face filters, facial recognition, content recommendation, and language translating technology. #.
+ # Transcript ID: 1.0 #: content: # For example, AI is used for social media face filters by identifying key points on a person's face, or face landmarks, such as the eyes, nose, and mouth. #.
+ # Transcript ID: 2.0 #: content: # Once these points have been identified, the contours of the face can be pinpointed, and the filter can be applied onto the user's face. #.
+ #..
+
+The contents of AOIs on the past slides are listed below: 
+#Slide: 0.0#: 
+
+ There are 5 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named #What is Artificial Intelligence# and a subtitle named #Everyday Applications#. . 
+#AOI 2#: A text block whose contents are: #AI is already applied in everyday life: social media face filters, facial recognition, content recommendation, language translating#.. 
+#AOI 3#: A picture containing one smiling girl, a read bounding box around her head, her face mesh, and face landmark points on her face. . 
+#AOI 4#: A picture containing one smiling man who wears a pair of red glasses in the video. . 
+#AOI 5#: A picture containing one smiling man whose face is colored differently on different parts of the face mesh. . 
+
+.
+
+During these course slides, your actions and states are listed below: 
+Here are your experience trajectory from Slide 0.0 to Slide 0.0. 
+Your # workload # trajectory is: 0.8,0.75,0.7,.
+Your # curiosity # trajectory is: 0.2,0.25,0.3,.
+Your # valid_focus # trajectory is: 0.3,0.4,0.45,.
+Your # course_follow # trajectory is: 0.35,0.4,0.45,.
+Your # engagement # trajectory is: 0.25,0.3,0.35,.
+Your # confusion # trajectory is: 0.75,0.7,0.65,.
+# Gaze Watch AOI #: A summary of your gaze trajectory is below. 
+During Slide: 0.0, gaze AOI ID trajectory is: 2.0,3.0,5.0
+# Mouse Move AOI #: A summary of your mouse moving trajectory is below. 
+During Slide: 0.0, mouse moving AOI ID trajectory is: 2.0,3.0,5.0
+.
+
+
+ Now you are on an online course and here is what the teacher is saying: # current course slide ID: 1.0, slide contents: 
+ # Transcript ID: 3.0 #: content: # The beginning of AI research dates back to the 1950s. #.
+ # Transcript ID: 4.0 #: content: # Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a “thinking” machine that could hold a conversation with a human as if it were just another person. #.
+ # Transcript ID: 5.0 #: content: # Turing's papers and their discussion sparked the concept of artificial intelligence. #.
+ # Transcript ID: 6.0 #: content: # While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. #.
+ # Transcript ID: 7.0 #: content: # The late 1970s became known as the first AI winter. #.
+ # Transcript ID: 8.0 #: content: # The first AI winter ended in the early 1980s after several new developments. #.
+ # Transcript ID: 9.0 #: content: # One of these developments was the US increasing funding for AI again. #.
+ # Transcript ID: 10.0 #: content: # Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. #.
+ # Transcript ID: 11.0 #: content: # Another development was the introduction of “Expert Systems” which was quickly utilized by large global corporations. #.
+ # Transcript ID: 12.0 #: content: # The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. #.
+ # Transcript ID: 13.0 #: content: # The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. #.
+ # Transcript ID: 14.0 #: content: # Even with such restrictions, these programs proved useful to corporations. #.
+ # Transcript ID: 15.0 #: content: # However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. #.
+ # Transcript ID: 16.0 #: content: # Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. #.
+ # Transcript ID: 17.0 #: content: # As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. #.
+ # Transcript ID: 18.0 #: content: # Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. #.
+ # Transcript ID: 19.0 #: content: # It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. #.
+ # Transcript ID: 20.0 #: content: # With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. #.
+ # Transcript ID: 21.0 #: content: # Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. #.
+ # Transcript ID: 22.0 #: content: # The 2010s saw the rise of digital virtual assistants. #.
+ # Transcript ID: 23.0 #: content: # Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. #.
+ # Transcript ID: 24.0 #: content: # Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. #.
+ # Transcript ID: 25.0 #: content: # Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more. #. #. 
+
+ There are 12 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named #What is Artificial Intelligence# and a subtitle named #AI\'s Development History#. . 
+#AOI 2#: An arrow pointing to a picture of Alan Turing. . 
+#AOI 3#: A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. . 
+#AOI 4#: An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter.. 
+#AOI 5#: A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #.. 
+#AOI 6#: An arrow pointing to a picture, which shows the intelligence of AI.. 
+#AOI 7#: A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#.. 
+#AOI 8#: An arrow pointing to a picture, which shows the more advanced intelligence of AI.. 
+#AOI 9#: A text block whose contents are: #1990s-2000s: The development of machine learning.#. . 
+#AOI 10#: An arrow pointing to a picture, which shows a chat robot and a boy are talking.. 
+#AOI 11#: A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#.. 
+#AOI 12#: A timeline axis symbol from left to right to show AI History.. 
+
+ Now you have learned knowledge from the # current course slide ID: 1.0#. Now you will take several post-test questions below to evaluate your learning performance:
+ Question 3: #  In the 1950s, [    ] suggests the possibility of a “thinking machine”.   #. You must select one answer from the question choices: #  A: Yann LeCun, B: Geoffrey Hinton, C: Alan Turing, D: Yoshua Bengio  # 
+
+ Question 4: #  How many AI winters from 1950s to 2010s (60 years)  #. You must select one answer from the question choices: #  A: 2, B: 3, C: 4, D: 5  # 
+
+ Question 5: #  From 1980s to 1990s, [    ] , followed by the second AI winter, led to success.  #. You must select one answer from the question choices: #  A: thinking machines, B: expert systems, C: machine learning, D: digital virtual assistants  # 
+
+ Question 6: #  From 1990s to 2000s, [     ] got further development due to the advances of computing resources and hardwares.  #. You must select one answer from the question choices: #  A: expert systems, B: machine learning, C: digital virtual assistants, D: chat boxes # 
+
+ Question 7: #  Which of the following are digital virtual assistants? (1). Alexa, (2). Siri, (3). Google Assistant  #. You must select one answer from the question choices: #  A: (1)(2)(3), B: (1)(3), C: (2)(3), D: (1)(2)  # 
+
+ Question 8: #  Which of the following is CORRECT?  #. You must select one answer from the question choices: #  A: Difficulties in AI progress in the 1970s result in the first AI winter, B: AI develops quickly even in the first AI winter, thanks to the development of powerful computing hardware resources, C: Machine learning systems operate within a clearly defined area of knowledge and follow strict logic rules., D: The digital virtual assistants today have already had the same ability like humans  # 
+
+ Please use the # simulation strategy # to finish the four tasks.
+ Note that: 1. your response for task 1, task 2,task 3 must be answered together in exactly the format below: 
+ Transcript ID: [value], WORKLOAD: [value], CURIOSITY: [value], VALID FOCUS: [value], COURSE FOLLOW: [value], ENGAGEMENT: [value], CONFUSION: [value], WATCH AOI: [aoi id], MOUSE MOVE AOI: [aoi id].
+ You MUST give response value for each task for each transcript from transcript 3.0 to transcript 25.0 in the slide.
+ You MUST give response value instead of blank for mouse moving simulation even if there is no related history data in mouse moving. 
+ 2. your response for task 4 must be exactly the format below: 
+ Question ID: [id value], Question Choice: [choice]. 
+ Make sure you have the ID symbol after Question symbol and The [choice] must be only one of A,B,C,D without other words.
+ You MUST give response for each question.
+ 
+ Your simulation of gaze, motor, cognitive states and question answering MUST be adapted to the student specific # persona # and Try to # diversify # your simulation according to # student personas #..
+ For example, for question choice task, your goal is NOT to answer it correctly. Instead, you should mimic the specific student persona, gaze/motor and cognitive states to make the choice. For example, good students may make the correct choice while bad students may make the wrong choice. Similar rules apply to other tasks. 
+ Your gaze DO NOT have to be the same as motor behaviors as well.
+ You just need to give me responses of four tasks in the format above. Do not give any other output nor reasons.
+
+
+ llm response: Transcript ID: 3.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 3.0, MOUSE MOVE AOI: 3.0.
+Transcript ID: 4.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 3.0, MOUSE MOVE AOI: 3.0.
+Transcript ID: 5.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 3.0, MOUSE MOVE AOI: 3.0.
+Transcript ID: 6.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 5.0, MOUSE MOVE AOI: 5.0.
+Transcript ID: 7.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 5.0, MOUSE MOVE AOI: 5.0.
+Transcript ID: 8.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 7.0, MOUSE MOVE AOI: 7.0.
+Transcript ID: 9.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 7.0, MOUSE MOVE AOI: 7.0.
+Transcript ID: 10.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 7.0, MOUSE MOVE AOI: 7.0.
+Transcript ID: 11.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 7.0, MOUSE MOVE AOI: 7.0.
+Transcript ID: 12.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 7.0, MOUSE MOVE AOI: 7.0.
+Transcript ID: 13.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 13.0, MOUSE MOVE AOI: 13.0.
+Transcript ID: 14.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 13.0, MOUSE MOVE AOI: 13.0.
+Transcript ID: 15.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 5.0, MOUSE MOVE AOI: 5.0.
+Transcript ID: 16.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 5.0, MOUSE MOVE AOI: 5.0.
+Transcript ID: 17.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 5.0, MOUSE MOVE AOI: 5.0.
+Transcript ID: 18.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 5.0, MOUSE MOVE AOI: 5.0.
+Transcript ID: 19.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 8.0, MOUSE MOVE AOI: 8.0.
+Transcript ID: 20.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 8.0, MOUSE MOVE AOI: 8.0.
+Transcript ID: 21.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 8.0, MOUSE MOVE AOI: 8.0.
+Transcript ID: 22.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 11.0, MOUSE MOVE AOI: 11.0.
+Transcript ID: 23.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 11.0, MOUSE MOVE AOI: 11.0.
+Transcript ID: 24.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 11.0, MOUSE MOVE AOI: 11.0.
+Transcript ID: 25.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 11.0, MOUSE MOVE AOI: 11.0.
+
+Question ID: 3, Question Choice: C.
+Question ID: 4, Question Choice: A.
+Question ID: 5, Question Choice: B.
+Question ID: 6, Question Choice: B.
+Question ID: 7, Question Choice: A.
+Question ID: 8, Question Choice: A.
+
+
+
+
+ Adding new agent memory 
+
+
+
+ Start Simulation for Slide 2.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+Repetition: 0----------
+sys_prompt: Assume you are the Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+.
+ The information above is your # persona #. 
+content_prompt: 
+ Assume you are on the online course. Your task is to simulate the student # cognitive states # (task 1), # gaze watch AOI # (task 2), # mouse move AOI # (task 3), and # question choice # (task 4) The details are depicted below. 
+
+ The slide in the course is segmented into several area of interests (AOIs) and you could either watch each AOI or use the computer mouse to explore them.
+ Each slide contains a list of transcripts from the teacher.
+ Your task 1 is to simulate the trajectory of this student's six cognitive states in the transcript list in the current slide on the course, including:
+ WORKLOAD, CURIOSITY, VALID FOCUS, COURSE FOLLOW, ENGAGEMENT, CONFUSION.
+ Each state is from 0 (very low level) to 1 (very high level) and should be accurate to at least two decimal places.
+ Your task 2 is to simulate the trajectory of this student's gaze watching behaviors and indicate which specific AOI you are currently watching during each transcript.
+ Your task 3 is to simulate the trajectory of this student's mouse moving behavior and indicate which specific AOI you come across with your mouse during each transcript.
+ Your task 4 is to simulate this student's learning performance to answer each of the post-course questions.
+
+ Your # simulation strategy #: Finish the four tasks according to the instructions.
+
+
+ Here are the # simulation strategy # for you to learn from history data. 
+ For cognitive states simulation (task 1), you have steps below. First, consider your past cognitive states trajectories in the history because your current cognitive states may be correlated with past cognitive states.
+ Second, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors and see whether your current cognitive states are in good status or not.
+ For example, strong course following is correlated with good cognitive states (such as high valid focus/course following or low workload) and weak course following may indicate bad cognitive states. 
+ For gaze/motor simulation (task 2 and task 3), you have steps below. First, consider your past gaze/motor trajectories in the history since current gaze/motor behaviors may be correlated with past gaze/motor behaviors.
+ Second, consider your past cognitive states trajectories to decide whether your current gaze/motor simulation should follow the current course content pace or not.
+ For example, good cognitive states (such as high valid focus/course following or low workload) is correlated with strong course following. So your gaze/motor simulation should be consistent with current course contents. 
+ However, bad cognitive states (such as high workload) may make you keep your gaze/motor AOI as previous gaze/motor trajectories or other potential random AOIs. 
+ Finally, note that gaze behaviors do not have to be the same as motor behaviors. Although they are correlated, gaze and motor represent different behaviors (watching AOI and mouse moving AOI) respectively. 
+ For question choice simulation (task 4), you have steps below. First, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors, which are correlated with your question answering performance.
+ For example, good course following may indicate correct question answers but bad course following may indicate wrong question answers. 
+ Second, consider your past cognitive states trajectories in the history, which may also affect your question answering performance.
+ For example, good cognitive states may indicate correct question answers but bad cognitive states may indicate wrong question answers. 
+ Third, find related course contents with the question contents and choice contents to get the correct choice. 
+ Finally, according to all information above, estimate whether you could answer each question correct or not. If yes, you give the correct choice. If no, you give the potential wrong choice. 
+ Note that your simulation for all transcripts MUST Not be always the same. It should vary according to course materials and the interaction among different behaviors as depicted above. 
+
+ You have experienced such histories in the course depicted below. 
+
+ # Here are old histories from slide 1.0 to slide 1.0 and your corresponding experience. #
+The contents of the past slides are listed below: 
+# #Slide: 1.0#:  
+
+ # Transcript ID: 3.0 #: content: # The beginning of AI research dates back to the 1950s. #.
+ # Transcript ID: 4.0 #: content: # Alan Turing, a notable computer scientist known for the breaking of the Enigma code in World War II, published a paper suggesting the testing of a “thinking” machine that could hold a conversation with a human as if it were just another person. #.
+ # Transcript ID: 5.0 #: content: # Turing's papers and their discussion sparked the concept of artificial intelligence. #.
+ # Transcript ID: 6.0 #: content: # While artificial intelligence was an exciting, futuristic concept in the 1950s, by the 1970s, AI research funding was cut due to many reports stating a lack of progress and success. #.
+ # Transcript ID: 7.0 #: content: # The late 1970s became known as the first AI winter. #.
+ # Transcript ID: 8.0 #: content: # The first AI winter ended in the early 1980s after several new developments. #.
+ # Transcript ID: 9.0 #: content: # One of these developments was the US increasing funding for AI again. #.
+ # Transcript ID: 10.0 #: content: # Japan had started a new fifth generation computer project and the US aimed to compete to become a world leader in computer science. #.
+ # Transcript ID: 11.0 #: content: # Another development was the introduction of “Expert Systems” which was quickly utilized by large global corporations. #.
+ # Transcript ID: 12.0 #: content: # The 1980s marked the end of the first AI winter with the promising introduction of Expert Systems. #.
+ # Transcript ID: 13.0 #: content: # The Expert system operated within a clearly defined area of knowledge and followed strict logic rules. #.
+ # Transcript ID: 14.0 #: content: # Even with such restrictions, these programs proved useful to corporations. #.
+ # Transcript ID: 15.0 #: content: # However, despite the success of the Expert system, computer science experienced a second AI winter starting in 1987. #.
+ # Transcript ID: 16.0 #: content: # Expert system computers were seen as slow, bulky, and not user friendly, and were becoming too expensive and difficult to update compared to the new desktop computer. #.
+ # Transcript ID: 17.0 #: content: # As consumers no longer needed to buy an expensive machine specialized for running expert systems, this led to the collapse of the market for specialized AI hardware in 1987. #.
+ # Transcript ID: 18.0 #: content: # Thus, an entire industry worth half a billion dollars was replaced in a single year. Research funding was once again cut. #.
+ # Transcript ID: 19.0 #: content: # It wasn't until 1997 when IBM's Deep Blue defeated chess champion Garry Kasparov that the general public realized the power of AI. #.
+ # Transcript ID: 20.0 #: content: # With the breakthrough in hardware equipment, the computer's processing power and storage capacity grew exponentially, enabling companies to store and process large amounts of data. #.
+ # Transcript ID: 21.0 #: content: # Various companies and government agencies have successfully applied AI on a larger scale in different applications. This leads to a new round of growth in AI. #.
+ # Transcript ID: 22.0 #: content: # The 2010s saw the rise of digital virtual assistants. #.
+ # Transcript ID: 23.0 #: content: # Assistants like Alexa, Siri, and Google utilize natural language processing to act as a convenient source of information for users, doing many of the tasks a human assistant would. #.
+ # Transcript ID: 24.0 #: content: # Virtual assistants like these are the future of AI. They are controlling autonomous cars and taking a physical form as a robot. #.
+ # Transcript ID: 25.0 #: content: # Artificial intelligence has come a long way since Alan Turing's idea in a hypothetical paper, and it will continue into the future driving cars, walking around in everyday life, and more. #.
+ #..
+
+The contents of AOIs on the past slides are listed below: 
+#Slide: 1.0#: 
+
+ There are 12 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named #What is Artificial Intelligence# and a subtitle named #AI\'s Development History#. . 
+#AOI 2#: An arrow pointing to a picture of Alan Turing. . 
+#AOI 3#: A text block whose contents are: #1950s: Alan Turing suggests the possibility of a thinking machine#. . 
+#AOI 4#: An arrow pointing to a picture, which shows that several AI experts are discussing in a conference in the first AI winter.. 
+#AOI 5#: A text block whose contents are: #1970s:Difficulties in AI progress and the first AI winter. #.. 
+#AOI 6#: An arrow pointing to a picture, which shows the intelligence of AI.. 
+#AOI 7#: A text block whose contents are: #1980s-1990s: Expert systems, followed by the second AI winter leading to SUCCESS!#.. 
+#AOI 8#: An arrow pointing to a picture, which shows the more advanced intelligence of AI.. 
+#AOI 9#: A text block whose contents are: #1990s-2000s: The development of machine learning.#. . 
+#AOI 10#: An arrow pointing to a picture, which shows a chat robot and a boy are talking.. 
+#AOI 11#: A text block whose contents are: #2010s: Digital virtual assistants and chat boxes.#.. 
+#AOI 12#: A timeline axis symbol from left to right to show AI History.. 
+
+.
+
+During these course slides, your actions and states are listed below: 
+Here are your experience trajectory from Slide 1.0 to Slide 1.0. 
+Your # workload # trajectory is: 0.75,0.7,0.7,0.7,0.7,0.8,0.8,0.8,0.8,0.75,0.75,0.75,0.7,0.7,0.7,0.7,0.75,0.75,0.75,0.8,0.8,0.75,0.75,.
+Your # curiosity # trajectory is: 0.25,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.25,0.25,0.25,0.3,0.3,0.3,0.3,0.25,0.25,0.25,0.2,0.2,0.25,0.25,.
+Your # valid_focus # trajectory is: 0.4,0.45,0.45,0.45,0.45,0.35,0.35,0.35,0.35,0.4,0.4,0.4,0.45,0.45,0.45,0.45,0.4,0.4,0.4,0.35,0.35,0.4,0.4,.
+Your # course_follow # trajectory is: 0.4,0.45,0.45,0.45,0.45,0.35,0.35,0.35,0.35,0.4,0.4,0.4,0.45,0.45,0.45,0.45,0.4,0.4,0.4,0.35,0.35,0.4,0.4,.
+Your # engagement # trajectory is: 0.3,0.35,0.35,0.35,0.35,0.25,0.25,0.25,0.25,0.3,0.3,0.3,0.35,0.35,0.35,0.35,0.3,0.3,0.3,0.25,0.25,0.3,0.3,.
+Your # confusion # trajectory is: 0.7,0.65,0.65,0.65,0.65,0.75,0.75,0.75,0.75,0.7,0.7,0.7,0.65,0.65,0.65,0.65,0.7,0.7,0.7,0.75,0.75,0.7,0.7,.
+# Gaze Watch AOI #: A summary of your gaze trajectory is below. 
+During Slide: 1.0, gaze AOI ID trajectory is: 7.0,7.0,7.0, , ,5.0,5.0,5.0,5.0,8.0,8.0,8.0,11.0,11.0,11.0,11.0,3.0,3.0,3.0,5.0,5.0,7.0,7.0
+# Mouse Move AOI #: A summary of your mouse moving trajectory is below. 
+During Slide: 1.0, mouse moving AOI ID trajectory is: 7.0,7.0,7.0, , ,5.0,5.0,5.0,5.0,8.0,8.0,8.0,11.0,11.0,11.0,11.0,3.0,3.0,3.0,5.0,5.0,7.0,7.0
+.
+
+
+ Now you are on an online course and here is what the teacher is saying: # current course slide ID: 2.0, slide contents: 
+ # Transcript ID: 26.0 #: content: # Artificial Intelligence Definitions: But still, what is AI? #.
+ # Transcript ID: 27.0 #: content: # AI usually does not have one explicit definition. #.
+ # Transcript ID: 28.0 #: content: # However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. #.
+ # Transcript ID: 29.0 #: content: # The sector of AI where AI currently is adopted in products is called machine learning, or ML. #.
+ # Transcript ID: 30.0 #: content: # Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. #.
+ # Transcript ID: 31.0 #: content: # As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence. #. #. 
+
+ There are 4 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named #What is Artificial Intelligence# and a subtitle named #Definition#. . 
+#AOI 2#: A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#.. 
+#AOI 3#: A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#.. 
+#AOI 4#: A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.. 
+
+ Now you have learned knowledge from the # current course slide ID: 2.0#. Now you will take several post-test questions below to evaluate your learning performance:
+ Question 9: #  AI allows computers to solve problems by making [     ] and decisions.  #. You must select one answer from the question choices: #  A: assumptions, B: predictions, C: observations, D: tests  # 
+
+ Question 10: #  Machine learning could teach computers to solve problems via learning from collections of [        ].  #. You must select one answer from the question choices: #  A: dataset, B: problems, C: other computers, D: user behaviors  # 
+
+ Question 11: #  Which of the following is correct to describe the relationship among computer science (CS), artificial intelligence (AI), and machine learning (ML)? (X < Y means X is included by Y)  #. You must select one answer from the question choices: #  A: AI < ML < CS, B: ML < AI < CS, C: CS < ML < AI, D: ML = AI < CS  # 
+
+ Please use the # simulation strategy # to finish the four tasks.
+ Note that: 1. your response for task 1, task 2,task 3 must be answered together in exactly the format below: 
+ Transcript ID: [value], WORKLOAD: [value], CURIOSITY: [value], VALID FOCUS: [value], COURSE FOLLOW: [value], ENGAGEMENT: [value], CONFUSION: [value], WATCH AOI: [aoi id], MOUSE MOVE AOI: [aoi id].
+ You MUST give response value for each task for each transcript from transcript 26.0 to transcript 31.0 in the slide.
+ You MUST give response value instead of blank for mouse moving simulation even if there is no related history data in mouse moving. 
+ 2. your response for task 4 must be exactly the format below: 
+ Question ID: [id value], Question Choice: [choice]. 
+ Make sure you have the ID symbol after Question symbol and The [choice] must be only one of A,B,C,D without other words.
+ You MUST give response for each question.
+ 
+ Your simulation of gaze, motor, cognitive states and question answering MUST be adapted to the student specific # persona # and Try to # diversify # your simulation according to # student personas #..
+ For example, for question choice task, your goal is NOT to answer it correctly. Instead, you should mimic the specific student persona, gaze/motor and cognitive states to make the choice. For example, good students may make the correct choice while bad students may make the wrong choice. Similar rules apply to other tasks. 
+ Your gaze DO NOT have to be the same as motor behaviors as well.
+ You just need to give me responses of four tasks in the format above. Do not give any other output nor reasons.
+
+
+ llm response: Transcript ID: 26.0, WORKLOAD: 0.75, CURIOSITY: 0.25, VALID FOCUS: 0.4, COURSE FOLLOW: 0.4, ENGAGEMENT: 0.3, CONFUSION: 0.7, WATCH AOI: 1.0, MOUSE MOVE AOI: 1.0.
+Transcript ID: 27.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 2.0, MOUSE MOVE AOI: 2.0.
+Transcript ID: 28.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 2.0, MOUSE MOVE AOI: 2.0.
+Transcript ID: 29.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 3.0, MOUSE MOVE AOI: 3.0.
+Transcript ID: 30.0, WORKLOAD: 0.7, CURIOSITY: 0.3, VALID FOCUS: 0.45, COURSE FOLLOW: 0.45, ENGAGEMENT: 0.35, CONFUSION: 0.65, WATCH AOI: 3.0, MOUSE MOVE AOI: 3.0.
+Transcript ID: 31.0, WORKLOAD: 0.8, CURIOSITY: 0.2, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 4.0, MOUSE MOVE AOI: 4.0.
+
+Question ID: 9, Question Choice: B.
+Question ID: 10, Question Choice: A. 
+Question ID: 11, Question Choice: B.
+
+
+
+
+ Adding new agent memory 
+
+
+
+ Start Simulation for Slide 3.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
+Repetition: 0----------
+sys_prompt: Assume you are the Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+.
+ The information above is your # persona #. 
+content_prompt: 
+ Assume you are on the online course. Your task is to simulate the student # cognitive states # (task 1), # gaze watch AOI # (task 2), # mouse move AOI # (task 3), and # question choice # (task 4) The details are depicted below. 
+
+ The slide in the course is segmented into several area of interests (AOIs) and you could either watch each AOI or use the computer mouse to explore them.
+ Each slide contains a list of transcripts from the teacher.
+ Your task 1 is to simulate the trajectory of this student's six cognitive states in the transcript list in the current slide on the course, including:
+ WORKLOAD, CURIOSITY, VALID FOCUS, COURSE FOLLOW, ENGAGEMENT, CONFUSION.
+ Each state is from 0 (very low level) to 1 (very high level) and should be accurate to at least two decimal places.
+ Your task 2 is to simulate the trajectory of this student's gaze watching behaviors and indicate which specific AOI you are currently watching during each transcript.
+ Your task 3 is to simulate the trajectory of this student's mouse moving behavior and indicate which specific AOI you come across with your mouse during each transcript.
+ Your task 4 is to simulate this student's learning performance to answer each of the post-course questions.
+
+ Your # simulation strategy #: Finish the four tasks according to the instructions.
+
+
+ Here are the # simulation strategy # for you to learn from history data. 
+ For cognitive states simulation (task 1), you have steps below. First, consider your past cognitive states trajectories in the history because your current cognitive states may be correlated with past cognitive states.
+ Second, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors and see whether your current cognitive states are in good status or not.
+ For example, strong course following is correlated with good cognitive states (such as high valid focus/course following or low workload) and weak course following may indicate bad cognitive states. 
+ For gaze/motor simulation (task 2 and task 3), you have steps below. First, consider your past gaze/motor trajectories in the history since current gaze/motor behaviors may be correlated with past gaze/motor behaviors.
+ Second, consider your past cognitive states trajectories to decide whether your current gaze/motor simulation should follow the current course content pace or not.
+ For example, good cognitive states (such as high valid focus/course following or low workload) is correlated with strong course following. So your gaze/motor simulation should be consistent with current course contents. 
+ However, bad cognitive states (such as high workload) may make you keep your gaze/motor AOI as previous gaze/motor trajectories or other potential random AOIs. 
+ Finally, note that gaze behaviors do not have to be the same as motor behaviors. Although they are correlated, gaze and motor represent different behaviors (watching AOI and mouse moving AOI) respectively. 
+ For question choice simulation (task 4), you have steps below. First, analyze correlations between past slide AOIs and past gaze/motor trajectories to see your course following behaviors, which are correlated with your question answering performance.
+ For example, good course following may indicate correct question answers but bad course following may indicate wrong question answers. 
+ Second, consider your past cognitive states trajectories in the history, which may also affect your question answering performance.
+ For example, good cognitive states may indicate correct question answers but bad cognitive states may indicate wrong question answers. 
+ Third, find related course contents with the question contents and choice contents to get the correct choice. 
+ Finally, according to all information above, estimate whether you could answer each question correct or not. If yes, you give the correct choice. If no, you give the potential wrong choice. 
+ Note that your simulation for all transcripts MUST Not be always the same. It should vary according to course materials and the interaction among different behaviors as depicted above. 
+
+ You have experienced such histories in the course depicted below. 
+
+ # Here are old histories from slide 2.0 to slide 2.0 and your corresponding experience. #
+The contents of the past slides are listed below: 
+# #Slide: 2.0#:  
+
+ # Transcript ID: 26.0 #: content: # Artificial Intelligence Definitions: But still, what is AI? #.
+ # Transcript ID: 27.0 #: content: # AI usually does not have one explicit definition. #.
+ # Transcript ID: 28.0 #: content: # However, it can be defined as a sector of computer science that allows computers to solve problems through making predictions and decisions. #.
+ # Transcript ID: 29.0 #: content: # The sector of AI where AI currently is adopted in products is called machine learning, or ML. #.
+ # Transcript ID: 30.0 #: content: # Machine learning teaches computers how to make problem-solving predictions and decisions by teaching them to learn from collected data. #.
+ # Transcript ID: 31.0 #: content: # As seen in the diagram, artificial intelligence is a branch of computer science, and machine learning is a branch of artificial intelligence. #.
+ #..
+
+The contents of AOIs on the past slides are listed below: 
+#Slide: 2.0#: 
+
+ There are 4 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named #What is Artificial Intelligence# and a subtitle named #Definition#. . 
+#AOI 2#: A text block whose contents are: #Artificial intelligence: allows computers to solve problems through making predictions and decisions.#.. 
+#AOI 3#: A text block whose contents are: #Machine Learning: teaches computers how to solve problems by learning from collected data.#.. 
+#AOI 4#: A picture containing three layers of circles. The first layer outer circle is Computer Science, the second layer circle is Artificial Intelligence, the third layer inner circle is Machine Learning. The picture also shows that machine learning is the course focus.. 
+
+.
+
+During these course slides, your actions and states are listed below: 
+Here are your experience trajectory from Slide 2.0 to Slide 2.0. 
+Your # workload # trajectory is: 0.75,0.7,0.7,0.7,0.7,0.8,.
+Your # curiosity # trajectory is: 0.25,0.3,0.3,0.3,0.3,0.2,.
+Your # valid_focus # trajectory is: 0.4,0.45,0.45,0.45,0.45,0.35,.
+Your # course_follow # trajectory is: 0.4,0.45,0.45,0.45,0.45,0.35,.
+Your # engagement # trajectory is: 0.3,0.35,0.35,0.35,0.35,0.25,.
+Your # confusion # trajectory is: 0.7,0.65,0.65,0.65,0.65,0.75,.
+# Gaze Watch AOI #: A summary of your gaze trajectory is below. 
+During Slide: 2.0, gaze AOI ID trajectory is: 1.0,2.0,2.0,3.0,3.0,4.0
+# Mouse Move AOI #: A summary of your mouse moving trajectory is below. 
+During Slide: 2.0, mouse moving AOI ID trajectory is: 1.0,2.0,2.0,3.0,3.0,4.0
+.
+
+
+ Now you are on an online course and here is what the teacher is saying: # current course slide ID: 3.0, slide contents: 
+ # Transcript ID: 32.0 #: content: # As our focus will be on machine learning, now let us have a look at this field in AI from a high level. #.
+ # Transcript ID: 33.0 #: content: # Usually, machine learning problems and its related solutions can be divided into three categories. We will have a look at each category. #. #. 
+
+ There are 4 AOIs. Each AOI ID and its contents are listed below: 
+#AOI 1#: A title named # Lecture 1 # and a subtitle named # How AI Learns the World #. . 
+#AOI 2#: A text block whose contents are: # What is AI? #.. 
+#AOI 3#: A text block whose contents are: # Three Ways of Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning. #.. 
+#AOI 4#: A text block whose contents are: # Optimization. #.. 
+
+ Now you have learned knowledge from the # current course slide ID: 3.0#. Now you will take several post-test questions below to evaluate your learning performance:
+ Question 12: #  Which of the following represents three ways of machine learning?  #. You must select one answer from the question choices: #  A: Representation Learning, Meta Learning, Reinforcement Learning, B: Supervised Learning, Unsupervised Learning, Representation Learning, C: Reinforcement Learning, Supervised Learning, Unsupervised Learning, D: Feature Engineering, Contrastive learning, Representation Learning   # 
+
+ Please use the # simulation strategy # to finish the four tasks.
+ Note that: 1. your response for task 1, task 2,task 3 must be answered together in exactly the format below: 
+ Transcript ID: [value], WORKLOAD: [value], CURIOSITY: [value], VALID FOCUS: [value], COURSE FOLLOW: [value], ENGAGEMENT: [value], CONFUSION: [value], WATCH AOI: [aoi id], MOUSE MOVE AOI: [aoi id].
+ You MUST give response value for each task for each transcript from transcript 32.0 to transcript 33.0 in the slide.
+ You MUST give response value instead of blank for mouse moving simulation even if there is no related history data in mouse moving. 
+ 2. your response for task 4 must be exactly the format below: 
+ Question ID: [id value], Question Choice: [choice]. 
+ Make sure you have the ID symbol after Question symbol and The [choice] must be only one of A,B,C,D without other words.
+ You MUST give response for each question.
+ 
+ Your simulation of gaze, motor, cognitive states and question answering MUST be adapted to the student specific # persona # and Try to # diversify # your simulation according to # student personas #..
+ For example, for question choice task, your goal is NOT to answer it correctly. Instead, you should mimic the specific student persona, gaze/motor and cognitive states to make the choice. For example, good students may make the correct choice while bad students may make the wrong choice. Similar rules apply to other tasks. 
+ Your gaze DO NOT have to be the same as motor behaviors as well.
+ You just need to give me responses of four tasks in the format above. Do not give any other output nor reasons.
+
+
+ llm response: Transcript ID: 32.0, WORKLOAD: 0.80, CURIOSITY: 0.20, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 2.0, MOUSE MOVE AOI: 2.0.
+Transcript ID: 33.0, WORKLOAD: 0.80, CURIOSITY: 0.20, VALID FOCUS: 0.35, COURSE FOLLOW: 0.35, ENGAGEMENT: 0.25, CONFUSION: 0.75, WATCH AOI: 3.0, MOUSE MOVE AOI: 3.0.
+
+Question ID: 12, Question Choice: C.
+
+
+
+
+ Adding new agent memory 
+
+

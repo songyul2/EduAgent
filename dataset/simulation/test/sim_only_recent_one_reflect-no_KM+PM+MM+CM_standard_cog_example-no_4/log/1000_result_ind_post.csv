@@ -1,0 +1,13 @@
+reflection_choice,memory_component_choice,memory_source,forget_effect,sim_strategy,example_demo,gpt_type,student_id,question_id,user_answer,agent_answer,correct_answer,choice_similarity,accuracy_similarity
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,1,None,0,3,0,1
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,2,None,1,1,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,3,None,2,2,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,4,None,0,0,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,5,None,1,1,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,6,None,1,1,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,7,None,0,0,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,8,None,0,0,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,9,None,1,1,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,10,None,0,0,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,11,None,1,1,0,0
+no,KM+PM+MM+CM,sim,only_recent_one,standard_cog,no,4,1000,12,None,2,2,0,0

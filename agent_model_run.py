@@ -6,17 +6,18 @@ from collections import defaultdict, Counter
 from termcolor import colored, cprint
 import asyncio,random
 from concurrent.futures import ThreadPoolExecutor
-import google.generativeai as genai
+# import google.generativeai as genai
 
 def default_string():
     return ''
 
 from transcript_map import video_transcript_dict, question_id_map_slide_dict, slide_summary_dict
-
-import openai
-from openai import OpenAI
-openai.api_key = ""
-client = OpenAI(api_key = "")
+import anthropic
+client = anthropic.Anthropic()
+# import openai
+# from openai import OpenAI
+# openai.api_key = ""
+# client = OpenAI(api_key = "")
 
 class Avatar(object):
     # agent id should be the same as the real student's ID
@@ -1251,15 +1252,22 @@ class Avatar(object):
         start_time = time.time()
         while response == '':
             try:
-                completion = client.chat.completions.create(
-                    model=model_name, # gpt-4-1106-preview, gpt-4
-                    messages=message_list,
+                # completion = client.chat.completions.create(
+                #     model=model_name, # gpt-4-1106-preview, gpt-4
+                #     messages=message_list,
+                #     temperature=0,
+                #     timeout = timeout,
+                #     max_tokens=3000
+                #     )
+                completion = client.messages.create(
+                    model="claude-3-haiku-20240307", # gpt-4-1106-preview, gpt-4, claude-3-haiku-20240307 is the fastest claude model
+                    messages=[message_list[1]],
+                    system=message_list[0]['content'],
                     temperature=0,
                     timeout = timeout,
                     max_tokens=3000
                     )
-                
-                response = completion.choices[0].message.content
+                response = completion.content[0].text
             except Exception as e:
                 print(self.agent_id,e)
                 time.sleep(current_sleep_time)
@@ -1659,7 +1667,7 @@ simulation_config_1 = {
     'memory_source': 'sim', # ['real','sim'] real for exp 1, sim for exp 2
     'sim_strategy': 'standard_cog', # ['standard', 'standard_cog']
     'example_demo': 'no', # remove example demonstration of other students. 
-    'gpt_type': 0, # [0,1,2,3,4], 0:gemini, 1:llama2-7b, 2:llama2-70b, 3:gpt3.5, 4:gpt4
+    'gpt_type': 4, # [0,1,2,3,4], 0:gemini, 1:llama2-7b, 2:llama2-70b, 3:gpt3.5, 4:gpt4
     'reflection_choice': 'no', # remove additional reflection module which is not useful
     'forget_effect': 'only_recent_one', # ['only_recent_one','no_memory'] Only use few-shot memory in the last recent slide for personalized example demonstration.
     'memory_component_choice': 'KM+PM+MM+CM', # ['KM+PM+MM+CM','KM+PM+MM','KM+PM+CM','KM+MM+CM']

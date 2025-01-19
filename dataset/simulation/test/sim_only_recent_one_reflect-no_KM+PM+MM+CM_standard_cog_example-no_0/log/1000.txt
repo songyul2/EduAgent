@@ -1,0 +1,27 @@
+
+
+ Start running new simulation program ====================================================================================================
+
+
+
+
+ Start Simulation for Agent 1000 in Video: 1----------------------------------------
+
+
+Finish instantiating persona: Student #1000 whose gender is male and is from 25 to 31 years old . This student education level is master in the major of Health and Life Sciences. Moreover, this student is not motivated at all in the course and has low GPA and often makes mistakes in post-test of the course. During the course, this student is very focused and is not curious at all in the course. What's more, this student is not interested at all in the course and has strong background with prior knowledge in this course. Additionally, this student is not smart and understands things slowly and is unwilling and struggling to follow teachers. Finally, this student's parents have a strong academic background. 
+
+
+
+
+
+ Finish instantiating memory: 
+
+
+
+ Start Simulation for Slide 0.0--------------------
+
+
+
+ Start Gaze Motor Cognitive State Question Simulation ----------------------------------------
+
+
